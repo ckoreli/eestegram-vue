@@ -1,0 +1,11 @@
+{
+  "name": "eestegram-vue",
+  "version": "1.0.0",
+  "description": "A Vue Instagram clone",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
